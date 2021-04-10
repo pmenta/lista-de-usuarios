@@ -10,7 +10,7 @@ Coias legais que aprendi e aprimorei fazendo este projeto
 -   Criação de API Fake com json-server
     -  Onde são salvas as informações da lista.
 -   Vue
-    -  Foi usado o Vue para facilitar a renderização das informações na tela.
+    -  Foi usado o vue como Framework
 -   EcmaScript6+
     -  Foram usadas várias funcionalidades do EcmaScript, como o await, algumas mais.
 -   Typescript
